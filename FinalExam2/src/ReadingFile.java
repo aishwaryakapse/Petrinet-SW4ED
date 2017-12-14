@@ -1,5 +1,4 @@
 /*Name: Aishwarya Nitin Kapse
- * UCI Student ID: 24567438
  * UCI NetID: akapse
  *Petrinet
  */
